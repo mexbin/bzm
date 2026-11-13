@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         蘑菇视频助手
 // @namespace    local.mogu.tools
-// @version      2.20.6
+// @version      2.20.7
 // @description  解锁蘑菇限制，包括暗网分区，小编精选分区，去除广告 tg@DOULEWSS
 // @match        *://wap3.mgios1.cc/*
 // @match        *://*.mgios1.cc/*
