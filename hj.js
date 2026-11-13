@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         海角视频 会员视频解锁小助手 (某人定制版)
 // @namespace    hj.unlock
-// @version      2.20.7
+// @version      2.20.6
 // @description  by:小宾 解锁海角视频付费视频的完整播放、付费图片贴的完整图片与付费音频贴的完整播放（支持 haijiao 官方站与国内可用直连域名） 帖子图片解析+V视频解锁+音频帖子解锁+修复bug和油猴脚本移植来自 @DOULEWSS
 // @author       ayase+baby
 // @match        *://haijiao.com/*
