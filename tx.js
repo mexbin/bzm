@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         糖心Vlog 会员视频解锁小助手
 // @namespace    txscript.unlock
-// @version      2.20.6
+// @version      2.20.7
 // @author       小宾
 // @description  不知名公益色色 解锁糖心视频的vip会员视频以及金币付费视频的完整播放，去除广告，优化pc下的浏览体验，并支持视频嗅探下载 视频解析 https://t.me/DOULEWSS
 // @icon         https://txscript.pages.dev/tx/icon.png
