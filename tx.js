@@ -19,8 +19,8 @@
 // @connect      unpkg.com
 // @connect      *
 // @require      https://cdn.jsdelivr.net/npm/mux.js@7.1.0/dist/mux.min.js
-// @updateURL    https://cdn.jsdelivr.net/gh/mexbin/lls@main/tx.js
-// @downloadURL  https://cdn.jsdelivr.net/gh/mexbin/lls@main/tx.js
+// @updateURL    https://cdn.jsdelivr.net/gh/mexbin/bzm@main/tx.js
+// @downloadURL  https://cdn.jsdelivr.net/gh/mexbin/bzm@main/tx.js
 // @run-at       document-start
 // @noframes
 // ==/UserScript==
