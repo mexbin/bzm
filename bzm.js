@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         萝莉岛视频解锁小助手
 // @namespace    vhub.unlock
-// @version      2.20.6
+// @version      2.20.7
 // @description  本脚本由by:小宾制作 去广告 解锁普通金币视频完整播放 解锁会员VIP视频完整播放 解锁会员短视频完整播放 解锁社区金币视频贴完整播放 解锁社区金币图集完整图集 解锁至尊SVIP会员专属萝莉岛板块视频完整播放
 // @author       小宾
 // @match        *://2026711216.iosr78k4dw47n.asia/*
