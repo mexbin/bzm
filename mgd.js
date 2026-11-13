@@ -7,8 +7,8 @@
 // @match        *://*.mgios1.cc/*
 // @match        *://mgios1.cc/*
 // @include      /^https?:\/\/([^\/]+\.)?mgsp[0-9a-z]*\.today\//
-// @updateURL    https://cdn.jsdelivr.net/gh/mexbin/lls@main/mgd.js
-// @downloadURL  https://cdn.jsdelivr.net/gh/mexbin/lls@main/mgd.js
+// @updateURL    https://cdn.jsdelivr.net/gh/mexbin/bzm@main/mgd.js
+// @downloadURL  https://cdn.jsdelivr.net/gh/mexbin/bzm@main/mgd.js
 // @run-at       document-start
 // @grant        GM_xmlhttpRequest
 // @grant        GM_setValue
