@@ -14,8 +14,8 @@
 // @connect      *
 // @run-at       document-start
 // @require      https://cdn.jsdelivr.net/npm/hls.js@1.5.20/dist/hls.min.js
-// @updateURL    https://cdn.jsdelivr.net/gh/mexbin/lls@main/bzm.js
-// @downloadURL  https://cdn.jsdelivr.net/gh/mexbin/lls@main/bzm.js
+// @updateURL    https://cdn.jsdelivr.net/gh/mexbin/bzm@main/bzm.js
+// @downloadURL  https://cdn.jsdelivr.net/gh/mexbin/bzm@main/bzm.js
 // ==/UserScript==
 
 
