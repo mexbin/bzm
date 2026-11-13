@@ -2,8 +2,8 @@
 // @name         91国产 会员视频解锁小助手
 // @namespace    gc.unlock.91
 // @version      2.20.6
-// @updateURL    https://cdn.jsdelivr.net/gh/mexbin/lls@main/91.js
-// @downloadURL  https://cdn.jsdelivr.net/gh/mexbin/lls@main/91.js
+// @updateURL    https://cdn.jsdelivr.net/gh/mexbin/bzm@main/91.js
+// @downloadURL  https://cdn.jsdelivr.net/gh/mexbin/bzm@main/91.js
 // @author       小宾
 // @description  不知名公益色色 解锁91国产会员权限，去除广告 https://t.me/DOULEWSS
 // @match        *://06erg.com/*
